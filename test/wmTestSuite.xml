@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webMethodsTestSuite description="" name="Unit tests for smtp">
+    <webMethodsTestCase description="Generate a Test Wizard" name="TC_processException">
+        <service folder="com.dachser" name="processException">
+            <input>
+                <file filename="test/com_dachser_processException_input.xml"/>
+            </input>
+            <expected>
+                <file filename="test/com_dachser_processException_output.xml"/>
+            </expected>
+        </service>
+    </webMethodsTestCase>
+</webMethodsTestSuite>
