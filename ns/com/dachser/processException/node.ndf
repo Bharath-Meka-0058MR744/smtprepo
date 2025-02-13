@@ -120,16 +120,16 @@
   <value name="auditoption">1</value>
   <array name="auditfields_input" type="value" depth="2">
     <array type="value" depth="1">
-      <value>/uuid;1;0</value>
-      <value>uuid</value>
-    </array>
-    <array type="value" depth="1">
       <value>/title;1;0</value>
       <value>title</value>
     </array>
     <array type="value" depth="1">
       <value>/description;1;0</value>
       <value>description</value>
+    </array>
+    <array type="value" depth="1">
+      <value>/uuid;1;0</value>
+      <value>uuid</value>
     </array>
   </array>
   <null name="auditfields_output"/>

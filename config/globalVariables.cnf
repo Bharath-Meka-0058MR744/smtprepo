@@ -5,12 +5,12 @@
     <array name="globalVariables" type="record" depth="1">
       <record javaclass="com.wm.data.ISMemDataImpl">
         <value name="key">receiver</value>
-        <value name="value">user@example.com</value>
+        <value name="value">Bharath.Meka@ibm.com</value>
         <value name="isSecure">false</value>
       </record>
       <record javaclass="com.wm.data.ISMemDataImpl">
         <value name="key">sender</value>
-        <value name="value">webmethods@example.com</value>
+        <value name="value">m.bharath49@gmail.com</value>
         <value name="isSecure">false</value>
       </record>
       <record javaclass="com.wm.data.ISMemDataImpl">
